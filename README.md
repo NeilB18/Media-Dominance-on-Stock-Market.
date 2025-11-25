@@ -1,2 +1,7 @@
-# Research-Project
-Research Project 
+#Media Dominance on The Stock Market
+The Stock Market, manipulated by the invisible strings of demand, forms the backdrop for this paper, which aims to examine the extent to which media influences market dynamics. Over the past decade, the internet has revolutionized the media space, with social media platforms rapidly gaining more popularity, and news articles becoming more available and accessible via the internet, heightening media’s influence on stock market trends. This paper evaluates the effect of news on share price volatility, specifically the effect of news headlines on the price of S&P 500 shares. To analyze these trends, novel AI-based generation regression models collected and analyzed data on news headlines from Jun 29th – Jul 30th. This study found a significant correlation between news headlines and S&P 500 stock volatility, validating the hypothesis that news headline keywords correlate with S&P 500 stock price movement.
+This study tracked the following news headline keywords: Market, News, Historical quotes, Market Indicators, Regression Models, and Trajectory. The study not only contributes to the understanding of the interplay between news headlines and market behavior but also sheds light on the role of advanced AI regression models in unraveling the complexities of financial markets.
+
+Research Paper can be accessed via this link:
+https://drive.google.com/file/d/1WYt_O3L7JH02qiO6HQ9P0JqraJ-Q4E93/view?usp=sharing
+
